@@ -20,15 +20,7 @@ As a Product Manager with a background in software QA and data analytics, I'm pa
 
 ### 🚀 What You'll Find Here
 
-This GitHub is my digital notebook and builder's space. It's where I follow my curiosity, try out new AI tools, and sketch product ideas. My LinkedIn is for my professional story; this is for the hands-on exploration.
-
-Here you'll find projects and code related to:
-
-* 🤖 **Agentic AI for Product Managers:** Exploring new AI/LLM workflows for Product Managers (PS: This is my personal toolkit).
-* 🤖 **AI Product Prototyping:** Exploring new AI/LLM tools and building small MVPs (like my AI travel planner, **Anna.ai**).
-* 📊 **Data-Driven Insights:** Scripts and notebooks (Python, SQL) for analyzing data and finding the story *behind* the numbers.
-* 🏥 **HealthTech Innovation:** Experiments and research focused on simplifying healthcare workflows and improving usability.
-* ⚙️ **Product Frameworks:** Notes and analyses on strategy, disruptive innovation, and systemic design from my coursework.
+This GitHub is my digital notebook and builder's space, feel free to dive in. It's where I follow my curiosity, try out new AI tools, and sketch product ideas. My LinkedIn is for my professional story, this is for the hands-on exploration.
 
 ### 💼 Professional Snapshot
 
