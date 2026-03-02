@@ -13,11 +13,11 @@
 
 ---
 
-As a Product Manager with a background in software QA and data analytics, I'm passionate about building solutions that simplify workflows and create measurable value. My "why" was sparked by seeing how modern AI tools could transform healthcare delivery and that's what I'm focused on.
+As a Product Manager with a background in software QA and data analytics, I'm passionate about building solutions that simplify workflows and create measurable value. My "why" was sparked by seeing how modern AI tools could improve operability and that's what I'm focused on.
 
 ### What You'll Find Here
 
-This GitHub is my digital notebook and builder's space, feel free to dive in. It's where I follow my curiosity, try out new AI tools, and sketch product ideas. My LinkedIn is for my professional story, this is for the hands-on exploration.
+This GitHub is my digital notebook and builder's space, feel free to dive in. It's where I follow my curiosity, try out new AI tools, and sketch product ideas. Projects worth exploring are pinned below.
 
 
 ### Let's Connect
