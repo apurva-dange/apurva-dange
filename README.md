@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apurva</h1>
 <h4 align="center">A Product Manager building at the intersection of HealthTech, AI, and User Experience.</h4>
 <p align="center">
-  <a href="https://www.linkedin.com/in/apurvadange" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
+ 
   <a href="https://github.com/apurvadange">
     <img src="https://komarev.com/ghpvc/?username=apurvadange&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="apurvadange"/>
   </a>
