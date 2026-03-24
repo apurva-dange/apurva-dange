@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apurva</h1>
-<h4 align="center">A Product Manager building at the intersection of HealthTech, AI, and User Experience.</h4>
+<h4 align="center">A Product Manager building at the intersection of Technology, AI, and User Experience.</h4>
 <p align="center">
  
   <a href="https://github.com/apurvadange">
@@ -13,7 +13,7 @@
 
 ---
 
-As a Product Manager with a background in software QA and data analytics, I'm passionate about building solutions that simplify workflows and create measurable value. My "why" was sparked by seeing how modern AI tools could improve operability and that's what I'm focused on.
+As a AI Product Manager with a background in software QA and data analytics, I'm passionate about building solutions that simplify workflows and create measurable value. My "why" was sparked by seeing how modern AI tools could improve operability and that's what I'm focused on.
 
 ### What You'll Find Here
 
